@@ -15,6 +15,20 @@ repos ={
   topics             = ["learning","terraform"]
   visibility         = "public"
    }
+ "fem-eci-terraform-aws-network" = {
+      description        = "Automation for GitHub"
+      gitignore_template = "Terraform"
+      name               = "fem-eci-terraform-aws-network"
+      topics             = ["learning", "terraform"]
+      visibility         = "public"
+    }
 
+    "fem-eci-terraform-aws-cluster" = {
+      description        = "Automation for GitHub"
+      gitignore_template = "Terraform"
+      name               = "fem-eci-terraform-aws-cluster"
+      topics             = ["learning", "terraform"]
+      visibility         = "public"
+    }
 }
 }
